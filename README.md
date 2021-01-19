@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/lemesBr/lemesBr/undraw_programming_2svr.svg" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/lemesBr/lemesBr/blob/main/undraw_programming_2svr.svg" width="350"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá mundo!
 Eu sou Thiago Ribeiro.
