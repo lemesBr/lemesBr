@@ -1,5 +1,9 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lemesBr&count_private=true&show_icons=true&bg_color=273b4a&title_color=009b8e&text_color=FFF&icon_color=009b8e&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá mundo!
+Eu sou Thiago Ribeiro.
+Eu sou um desenvolvedor full stack :computer:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemesBr&layout=compact)
+Tenho 24 anos e apaixonado por tecnologia, comunidades e tudo mais. Gosto de desafios, aprender e contribuir de todas as formas possíveis.
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lemesBr)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/othiago.lemes/)](https://www.instagram.com/othiago.lemes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemestec@gmail.com)](mailto:lemestec@gmail.com)
