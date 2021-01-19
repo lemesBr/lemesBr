@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/lemesBr/lemesBr/06150644e60d484f4bcb4c84435cd86d518a4b53/undraw_programming_2svr.svg" width="350"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá mundo! [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/anajuliabit)](https://github.com/anajuliabit)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá mundo! [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/lemesBr)](https://github.com/anajuliabit)
 Eu sou Thiago Ribeiro.
 Eu sou um desenvolvedor full stack :computer:
 
